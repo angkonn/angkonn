@@ -2,10 +2,10 @@
 Hello! I'm Tasir Mahtab Haque, an undergraduate student studying Electronics and Telecommunication Engineering (ETE) at Chittagong University of Engineering and Technology (CUET). I have a passion for technology, coding, and solving real-world problems through innovative solutions.
 
 # 🛠 Skills:
-Programming Languages: C, C++, Python, MATLAB
-Web Development: HTML, CSS, JavaScript
-Version Control: GitHub
-Tools: Google Colab, MATLAB/Simulink, Visual Studio Code
+Programming Languages: C, C++, Python, MATLAB.
+Web Development: HTML, CSS, JavaScript.
+Version Control: GitHub.
+Tools: Google Colab, MATLAB/Simulink, Visual Studio Code.
 🎯 Goals:
 To become proficient in Machine Learning and contribute to real-world applications.
 To build a professional portfolio website using WordPress and showcase my projects.

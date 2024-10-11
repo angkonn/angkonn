@@ -6,11 +6,11 @@ Programming Languages: C, C++, Python, MATLAB.
 Web Development: HTML, CSS, JavaScript.
 Version Control: GitHub.
 Tools: Google Colab, MATLAB/Simulink, Visual Studio Code.
-🎯 Goals:
+# 🎯 Goals:
 To become proficient in Machine Learning and contribute to real-world applications.
 To build a professional portfolio website using WordPress and showcase my projects.
 To explore freelancing and work on exciting projects while gaining valuable experience.
-💼 Future Plans:
+# 💼 Future Plans:
 As an aspiring engineer, I want to dive deeper into fields like VLSI, AI, automation, and telecommunications, and use my knowledge to make a meaningful impact.
 
 # 📫 How to Reach Me:

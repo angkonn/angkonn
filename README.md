@@ -5,7 +5,7 @@ Hello! I'm Tasir Mahtab Haque, an undergraduate student studying Electronics and
 Programming Languages: C, C++, Python, MATLAB, Python (Numpy, Pandas, Matplotlib, Seaborn), Scikit-Learn
 Web Development: HTML, CSS, JavaScript.
 Version Control: Git,GitHub.
-Tools: Jupiter, MATLAB/Simulink, Visual Studio Code.
+Tools: Jupiter, Google Colab, MATLAB/Simulink, Visual Studio Code.
 
 # 💼 Future Plans:
 As an aspiring engineer, I want to dive deeper into fields like VLSI, ML-DL, AI, automation, and telecommunications, and use my knowledge to make a meaningful impact.

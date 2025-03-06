@@ -1,18 +1,27 @@
-# About Me 🙋‍♂️
-Hello! I'm Tasir Mahtab Haque, an undergraduate student studying Electronics and Telecommunication Engineering (ETE) at Chittagong University of Engineering and Technology (CUET). I have a passion for technology, coding, and solving real-world problems through innovative solutions.
+# 👋 Hi, I'm Tasir Mahtab Haque  
+**Electronics & Telecommunication Engineering Student** @ **CUET** |
 
-# 🛠 Skills:
-Programming Languages: C, C++, Python, MATLAB, Python (Numpy, Pandas, Matplotlib, Seaborn), Scikit-Learn
-Web Development: HTML, CSS, JavaScript.
-Version Control: Git,GitHub.
-Tools: Jupiter, Google Colab, MATLAB/Simulink, Visual Studio Code.
+Passionate about Machine Learning, Web Development and VLSI field. Currently diving deep into **Machine Learning** and exploring how algorithms can transform data into actionable insights.  
 
-# 💼 Future Plans:
-As an aspiring engineer, I want to dive deeper into fields like VLSI, ML-DL, AI, automation, and telecommunications, and use my knowledge to make a meaningful impact.
+---
 
-# 📫 How to Reach Me:
-Feel free to connect with me:
+## 🔧 **Technical Toolkit**  
+- **Programming**: `C/C++` · `Python` · `MATLAB`  
+- **Machine Learning**: `NumPy` · `Pandas` · `Matplotlib/Seaborn` · `Scikit-Learn`  
+- **Web Development**: `HTML` · `CSS` · `JavaScript`  
+- **Tools**: `Git/GitHub` · `Jupyter/Colab` · `VS Code` · `MATLAB/Simulink`  
 
-Email: [mahtabhaque2587@gmail.com]
-Linkedin: [https://www.linkedin.com/in/angkonnn]
-Facebook: [https://www.facebook.com/angkonnn/]
+---
+
+## 🚀 **Future Goals**  
+- Specialize in **AI/ML** and **VLSI Design**  
+- Develop automation solutions for sustainable tech  
+- Bridge gaps between telecommunications and intelligent systems  
+
+---
+
+## 📬 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/angkonnn)  
+[![Email](https://img.shields.io/badge/Email-Reach%20Out%20Here-D14836?style=flat&logo=gmail)](mailto:mahtabhaque2587@gmail.com)  
+
+*Open to collaborations, internships, and tech discussions!*  

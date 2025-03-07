@@ -47,7 +47,7 @@ Passionate about Machine Learning, Web Development, and VLSI. Currently diving d
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedIn.com/in/angkonnn" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/angkonnn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/angkonnn/" target="_blank" rel="noopener noreferrer">

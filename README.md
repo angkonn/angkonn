@@ -6,7 +6,6 @@ Passionate about Machine Learning, Web Development and VLSI field. Currently div
 
 ![angkonn's Stats](https://github-readme-stats.vercel.app/api?username=angkonn&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
-![angkonn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=angkonn&theme=highcontrast&hide_border=true)
 
 ---
 

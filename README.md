@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tasir Mahtab Haque  
-**Electronics & Telecommunication Engineering Student**
+**BSc. in Electronics & Telecommunication Engineering**
 @ **Chittagong University of Enginerring and Technology (CUET)** |
 
 Passionate about Machine Learning, Web Development and VLSI field. Currently diving deep into **Machine Learning** and exploring how algorithms can transform data into actionable insights.  

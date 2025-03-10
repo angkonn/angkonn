@@ -4,6 +4,8 @@
 
 Passionate about Machine Learning, Web Development and VLSI field. Currently diving deep into **Machine Learning** and exploring how algorithms can transform data into actionable insights.  
 
+![angkonn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=angkonn&theme=merko&hide_border=true)
+
 ---
 
 ## 🔧 **Technical Toolkit**  

@@ -4,7 +4,7 @@
 
 Passionate about Machine Learning, Web Development and VLSI field. Currently diving deep into **Machine Learning** and exploring how algorithms can transform data into actionable insights.  
 
-![angkonn's Stats](https://github-readme-stats.vercel.app/api?username=angkonn&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+[![angkonn's Stats](https://github-readme-stats.vercel.app/api?username=angkonn&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=angkonn&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ---

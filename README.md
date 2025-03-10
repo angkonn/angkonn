@@ -39,4 +39,3 @@ Passionate about Machine Learning, Web Development and VLSI field. Currently div
   </a>
 
 *Open to collaborations, internships, and tech discussions!*  
-(also add my kaggle account: https://www.kaggle.com/angkonn )

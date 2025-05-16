@@ -12,7 +12,7 @@ Passionate about Machine Learning, Web Development and VLSI field. Currently div
 
 ## 🔧 **Technical Toolkit**  
 - **Programming**: `C/C++` · `Python` · `MATLAB`  
-- **Machine Learning**: `NumPy` · `Pandas` · `Matplotlib/Seaborn` · `Scikit-Learn`  
+- **Machine Learning and Deep Learning**: `NumPy` · `Pandas` · `Matplotlib/Seaborn` · `Scikit-Learn` · `TensorFlow` · `PyTorch` · `OpenCV`
 - **Web Development**: `HTML` · `CSS` · `JavaScript`  
 - **Tools**: `Git/GitHub` · `Jupyter/Colab` · `VS Code` · `MATLAB/Simulink`  
 

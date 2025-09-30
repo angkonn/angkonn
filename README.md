@@ -29,7 +29,7 @@ Passionate about Machine Learning, Web Development and VLSI field. Currently div
 <a href="https://www.linkedin.com/in/angkonnn" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
 </a>  
-<a href="tasir-mahtab-haque.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://www.tasir-mahtab-haque.vercel.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-2ecc71?style=flat&logo=web" alt="Portfolio">
 </a> 
 <a href="https://www.facebook.com/angkonnn/" target="_blank" rel="noopener noreferrer">

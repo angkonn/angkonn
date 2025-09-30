@@ -35,6 +35,9 @@ Passionate about Machine Learning, Web Development and VLSI field. Currently div
 <a href="mailto:mahtabhaque2587@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-Reach%20Out%20Here-D14836?style=flat&logo=gmail" alt="Email">
 </a>  
+<a href="tasir-mahtab-haque.vercel.app" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-2ecc71?style=flat&logo=web" alt="Portfolio">
+</a> 
 <a href="https://www.kaggle.com/angkonn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-Connect%20on%20Kaggle-20BEFF?style=flat&logo=kaggle" alt="Kaggle">
   </a>
